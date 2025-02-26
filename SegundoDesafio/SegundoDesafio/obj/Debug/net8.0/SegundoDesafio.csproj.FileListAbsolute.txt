@@ -1,0 +1,14 @@
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SegundoDesafio\SegundoDesafio\bin\Debug\net8.0\SegundoDesafio.exe
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SegundoDesafio\SegundoDesafio\bin\Debug\net8.0\SegundoDesafio.deps.json
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SegundoDesafio\SegundoDesafio\bin\Debug\net8.0\SegundoDesafio.runtimeconfig.json
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SegundoDesafio\SegundoDesafio\bin\Debug\net8.0\SegundoDesafio.dll
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SegundoDesafio\SegundoDesafio\bin\Debug\net8.0\SegundoDesafio.pdb
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\SegundoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\SegundoDesafio.AssemblyInfoInputs.cache
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\SegundoDesafio.AssemblyInfo.cs
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\SegundoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\SegundoDesafio.dll
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\refint\SegundoDesafio.dll
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\SegundoDesafio.pdb
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\SegundoDesafio.genruntimeconfig.cache
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SegundoDesafio\SegundoDesafio\obj\Debug\net8.0\ref\SegundoDesafio.dll
