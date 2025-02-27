@@ -1,0 +1,14 @@
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuartoDesafio\QuartoDesafio\obj\Debug\net8.0\QuartoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuartoDesafio\QuartoDesafio\obj\Debug\net8.0\QuartoDesafio.AssemblyInfoInputs.cache
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuartoDesafio\QuartoDesafio\obj\Debug\net8.0\QuartoDesafio.AssemblyInfo.cs
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuartoDesafio\QuartoDesafio\obj\Debug\net8.0\QuartoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuartoDesafio\QuartoDesafio\bin\Debug\net8.0\QuartoDesafio.exe
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuartoDesafio\QuartoDesafio\bin\Debug\net8.0\QuartoDesafio.deps.json
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuartoDesafio\QuartoDesafio\bin\Debug\net8.0\QuartoDesafio.runtimeconfig.json
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuartoDesafio\QuartoDesafio\bin\Debug\net8.0\QuartoDesafio.dll
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuartoDesafio\QuartoDesafio\bin\Debug\net8.0\QuartoDesafio.pdb
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuartoDesafio\QuartoDesafio\obj\Debug\net8.0\QuartoDesafio.dll
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuartoDesafio\QuartoDesafio\obj\Debug\net8.0\refint\QuartoDesafio.dll
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuartoDesafio\QuartoDesafio\obj\Debug\net8.0\QuartoDesafio.pdb
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuartoDesafio\QuartoDesafio\obj\Debug\net8.0\QuartoDesafio.genruntimeconfig.cache
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuartoDesafio\QuartoDesafio\obj\Debug\net8.0\ref\QuartoDesafio.dll
