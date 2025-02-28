@@ -1,0 +1,14 @@
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuintoDesafio\QuintoDesafio\bin\Debug\net8.0\QuintoDesafio.exe
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuintoDesafio\QuintoDesafio\bin\Debug\net8.0\QuintoDesafio.deps.json
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuintoDesafio\QuintoDesafio\bin\Debug\net8.0\QuintoDesafio.runtimeconfig.json
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuintoDesafio\QuintoDesafio\bin\Debug\net8.0\QuintoDesafio.dll
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuintoDesafio\QuintoDesafio\bin\Debug\net8.0\QuintoDesafio.pdb
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\QuintoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\QuintoDesafio.AssemblyInfoInputs.cache
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\QuintoDesafio.AssemblyInfo.cs
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\QuintoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\QuintoDesafio.dll
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\refint\QuintoDesafio.dll
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\QuintoDesafio.pdb
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\QuintoDesafio.genruntimeconfig.cache
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\QuintoDesafio\QuintoDesafio\obj\Debug\net8.0\ref\QuintoDesafio.dll
