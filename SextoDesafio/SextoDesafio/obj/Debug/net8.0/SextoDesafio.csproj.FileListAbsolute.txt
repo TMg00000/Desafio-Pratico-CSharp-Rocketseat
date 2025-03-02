@@ -1,0 +1,14 @@
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SextoDesafio\SextoDesafio\bin\Debug\net8.0\SextoDesafio.exe
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SextoDesafio\SextoDesafio\bin\Debug\net8.0\SextoDesafio.deps.json
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SextoDesafio\SextoDesafio\bin\Debug\net8.0\SextoDesafio.runtimeconfig.json
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SextoDesafio\SextoDesafio\bin\Debug\net8.0\SextoDesafio.dll
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SextoDesafio\SextoDesafio\bin\Debug\net8.0\SextoDesafio.pdb
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SextoDesafio\SextoDesafio\obj\Debug\net8.0\SextoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SextoDesafio\SextoDesafio\obj\Debug\net8.0\SextoDesafio.AssemblyInfoInputs.cache
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SextoDesafio\SextoDesafio\obj\Debug\net8.0\SextoDesafio.AssemblyInfo.cs
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SextoDesafio\SextoDesafio\obj\Debug\net8.0\SextoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SextoDesafio\SextoDesafio\obj\Debug\net8.0\SextoDesafio.dll
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SextoDesafio\SextoDesafio\obj\Debug\net8.0\refint\SextoDesafio.dll
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SextoDesafio\SextoDesafio\obj\Debug\net8.0\SextoDesafio.pdb
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SextoDesafio\SextoDesafio\obj\Debug\net8.0\SextoDesafio.genruntimeconfig.cache
+C:\Users\luist\OneDrive\Área de Trabalho\outros\Curso-CSharp-Rocketseat\SextoDesafio\SextoDesafio\obj\Debug\net8.0\ref\SextoDesafio.dll
